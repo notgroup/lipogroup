@@ -2,7 +2,7 @@
 
         <head>
                 <base href="/prostazin-prostiti/">
-    <link rel="canonical" href="https://lipogroup.netlify.app/prostazin-prostiti/">
+    <link rel="canonical" href="https://notgroup.herokuapp.com/prostazin-prostiti/">
             <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
             <meta name="viewport" content="width=device-width,initial-scale=1.0"/>
 
